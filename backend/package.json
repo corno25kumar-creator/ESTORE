@@ -15,6 +15,7 @@
     "@clerk/express": "^1.7.67",
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
+    "estore": "file:..",
     "express": "^5.2.1",
     "mongoose": "^9.1.5"
   }

@@ -1,11 +1,11 @@
 import React from 'react'
 
-function App() {
+function hello() {
   return (
     <div>
-      <h1>hello </h1>
+      hello
     </div>
   )
 }
 
-export default App
+export default hello
